@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=batuhantaze&show_icons=true&theme=radical)
 
