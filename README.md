@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning HTML-CSS and Javascript 
-- I want to be a Frontend Developer.
+- 👨‍💻 I want to be a Frontend Developer. 
+- 💬 I share my projects with you. Help me progress.
 
 <!--
 **batuhantaze/batuhantaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
