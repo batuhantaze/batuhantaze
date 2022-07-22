@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there My name is Batuhan 👋
 
 - 🌱 I’m currently learning HTML-CSS and Javascript 
 - 👨‍💻 I want to be a Frontend Developer. 
